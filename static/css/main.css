@@ -1,0 +1,16 @@
+img {
+    width: 60%;
+}
+#zioku{
+    color: red;
+}
+#floater{
+    border: 2px solid pink;
+}
+span, h3{
+    padding-right: 40px;
+}
+button{
+    margin-left: 80%;
+    
+}
