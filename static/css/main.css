@@ -1,16 +1,17 @@
-img {
-    width: 60%;
-}
-#zioku{
-    color: red;
-}
-#floater{
-    border: 2px solid pink;
-}
+
 span, h3{
     padding-right: 40px;
 }
-button{
-    margin-left: 80%;
-    
+.navbar-nav {
+    display:table;
+    width:100%;
+    margin: 0;
+}
+.navbar-nav > li {
+    float:none;
+    display:table-cell;
+    text-align:center;
+}
+.center-text {
+    text-align: center;
 }
